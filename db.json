@@ -1,6 +1,20 @@
 {
   "books": [
     {
+      "0": [
+        {
+          "id": 2,
+          "username": "auer"
+        },
+        {
+          "id": 8,
+          "username": "goodwin"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        }
+      ],
       "id": 1,
       "title": "Picture Perfect",
       "description": "When her seven-year-old nephew, a hemophiliac, mysteriously disappears during their camping trip, pediatrician Lorrie Ryan races against time to find the missing boy with the help of FBI agent Stuart Saunders. Previously published as Panda Bear Is Critical. Reprint.",
@@ -17,6 +31,24 @@
       ]
     },
     {
+      "0": [
+        {
+          "id": 10,
+          "username": "macejkovic"
+        },
+        {
+          "id": 4,
+          "username": "batz"
+        },
+        {
+          "id": 6,
+          "username": "steuber"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        }
+      ],
       "id": 2,
       "title": "Nemesis",
       "description": "The next high-octane thriller in the FBI series featuring Dillon Savich and Lacey Sherlock from # 1 New York Times–bestselling author Catherine Coulter. When Special Agent Lacey Sherlock foils a terrorist attack at JFK airport, she thinks her job is done and turns the reins over to the New York FBI. But stopping the grenade-carrying crazy was only the beginning. Another plot unfolds nearly simultaneously with a bomb at St. Patrick’s Cathedral. The terrorist at JFK refuses to speak to anyone but Sherlock. She heads back with counterterrorist Special Agent Cal McLain to try to get him to talk. Meanwhile, Savich—with the help of Agent Griffin Hammersmith—has his hands full trying to track an elusive murderer who looks like a Hollywood Dracula. When Dracula’s attempts to kill Savich collide with Sherlock’s terrorist case, very strange things happen. Who is really behind the bombing attack at St. Patrick’s? How does Savich’s mysterious killer fit into Sherlock’s terrorism investigation? Savich and Sherlock race against the clock, as more lives are in danger with every passing minute.",
@@ -42,14 +74,26 @@
       "description": "Living life off the radar can be tough - as the Urban Outlaws are about to find out . . . Because no one's anonymous. No one's untraceable. No one's safe. The first in a sensational new series of high-octane, high-tech thrillers",
       "img_url": "http://books.google.com/books/content?id=xTSmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
-        {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 9,
-          "username": "nikolaus"
-        }
+        [
+          [
+            {
+              "id": 8,
+              "username": "goodwin"
+            },
+            {
+              "id": 9,
+              "username": "nikolaus"
+            },
+            {
+              "id": 1,
+              "username": "pouros"
+            }
+          ],
+          {
+            "id": 1,
+            "username": "pouros"
+          }
+        ]
       ]
     },
     {
@@ -58,14 +102,20 @@
       "description": "When the man she had helped convict of the rape and murder of her sister is set free because of exculpatory evidence, FBI scientist Olivia St. Martin launches her own investigation to uncover the truth about the case, only to discover that a brutal serial killer has been at large for years and, posing as a field agent, joins forces with Seattle detective Zack Travis to stop the monster. Original.",
       "img_url": "http://books.google.com/books/content?id=S3yODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 8,
-          "username": "goodwin"
-        }
+        [
+          {
+            "id": 10,
+            "username": "macejkovic"
+          },
+          {
+            "id": 8,
+            "username": "goodwin"
+          },
+          {
+            "id": 1,
+            "username": "pouros"
+          }
+        ]
       ]
     },
     {
@@ -74,18 +124,24 @@
       "description": "FIGHTING TO SURVIVE Nia Sharpe never expected to get caught in the crosshairs of a drug war. But with the return of her criminal brother, her life is suddenly on the line. Thankfully, her handsome boss, Aiden McBride, is there when she needs him most. Nia knows Aiden is still reeling from his past, so when the war vet steps in to keep her safe, Nia is touched by his heroic actions. Now staying ahead of the bad guys is their best chance of surviving. But watching Aiden fight for her—for them—gives her hope that they could share more than just this deadly situation. Perhaps they could share a future… Echo Mountain: Saving lives and finding love in the mountains of Washington State",
       "img_url": "http://books.google.com/books/content?id=bNYgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "batz"
-        },
-        {
-          "id": 8,
-          "username": "goodwin"
-        }
+        [
+          {
+            "id": 10,
+            "username": "macejkovic"
+          },
+          {
+            "id": 4,
+            "username": "batz"
+          },
+          {
+            "id": 8,
+            "username": "goodwin"
+          },
+          {
+            "id": 1,
+            "username": "pouros"
+          }
+        ]
       ]
     },
     {
@@ -166,14 +222,20 @@
       "description": "Five short tales, including 'Plumbing for Willy' and 'Death on the Cape,' follow the adventures of a former cleaning woman and her occasionally befuddled mate",
       "img_url": "http://books.google.com/books/content?id=dK5Gx6vbV2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
-        {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
-        }
+        [
+          {
+            "id": 8,
+            "username": "goodwin"
+          },
+          {
+            "id": 10,
+            "username": "macejkovic"
+          },
+          {
+            "id": 1,
+            "username": "pouros"
+          }
+        ]
       ]
     }
   ],
